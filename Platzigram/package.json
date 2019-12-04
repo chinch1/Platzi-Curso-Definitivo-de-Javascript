@@ -1,0 +1,21 @@
+{
+  "name": "platzigram",
+  "version": "0.1.0",
+  "description": "Comparte tus fotos jugando con Kratos ",
+  "main": "server.js",
+  "keywords": [
+    "kratosgram",
+    "Curso",
+    "definitivo",
+    "de",
+    "javascrip"
+  ],
+  "author": "Nicola Bitetto",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2",
+    "materialize-css": "^1.0.0"
+  }
+}
